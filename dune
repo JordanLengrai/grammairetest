@@ -1,0 +1,5 @@
+(executable
+ (name main)
+(modules ast parser lexer interpreteur main)
+ (libraries menhirLib))
+
