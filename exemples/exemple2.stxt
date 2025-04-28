@@ -1,0 +1,21 @@
+# Premier titre
+
+Ceci est le premier paragraphe.
+
+
+   
+Ceci est le deuxième paragraphe, séparé par plusieurs lignes vides et des espaces.
+
+## Un sous-titre
+
+* Un item de liste
+* Un autre item
+
+
+Encore un paragraphe après la liste, précédé de lignes vides et d'espaces.
+
+**Texte en gras** et *texte en italique* mélangés.
+
+[Un lien](https://exemple.com)
+
+\color{FF0000}{Texte en rouge}

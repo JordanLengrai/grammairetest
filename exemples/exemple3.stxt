@@ -1,0 +1,8 @@
+\define{\gas}{Grammaires et Analyse}
+\define{\BleuCanard}{048B9A}
+\begindocument
+## Compte rendu du projet de \gas
+Syntaxique
+\item Nous avons implémenté des *macros*,
+\item et de \color{\BleuCanard}{jolies couleurs} !
+\enddocument

@@ -14,7 +14,7 @@ build: menhir lexer
 	dune build
 
 run:
-	dune exec ./main.exe -- exemples/exemple.stxt
+	dune exec ./main.exe -- exemples/exemple2.stxt
 
 clean:
 	dune clean
