@@ -9,6 +9,9 @@ module Interpreteur = Dune__exe__Interpreteur
 (** @canonical Dune__exe.Lexer *)
 module Lexer = Dune__exe__Lexer
 
+(** @canonical Dune__exe.Macro_preprocess *)
+module Macro_preprocess = Dune__exe__Macro_preprocess
+
 (** @canonical Dune__exe.Main *)
 module Main = Dune__exe__Main
 

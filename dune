@@ -1,5 +1,5 @@
 (executable
  (name main)
-(modules ast parser lexer interpreteur main)
- (libraries menhirLib))
+ (modules ast parser lexer interpreteur macro_preprocess main)
+ (libraries menhirLib str))
 
